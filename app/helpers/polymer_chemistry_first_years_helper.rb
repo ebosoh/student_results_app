@@ -1,0 +1,2 @@
+module PolymerChemistryFirstYearsHelper
+end

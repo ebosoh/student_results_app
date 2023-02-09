@@ -1,0 +1,2 @@
+module ActuarialScience2SecondYearsHelper
+end

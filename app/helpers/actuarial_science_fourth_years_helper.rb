@@ -1,0 +1,2 @@
+module ActuarialScienceFourthYearsHelper
+end

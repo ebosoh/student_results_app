@@ -1,0 +1,12 @@
+StandardEight.update_all(type:"Archive")
+StandardSeven.update_all(type:"StandardEight")
+StandardSix.update_all(type:"StandardSeven")
+StandardFive.update_all(type:"StandardSix")
+StandardFour.update_all(type:"StandardFive")
+GradeThree.update_all(type:"StandardFour")
+GradeTwo.update_all(type:"GradeThree")
+GradeOne.update_all(type:"GradeTwo")
+PrePrimaryTwo.update_all(type:"GradeOne")
+PrePrimaryOne.update_all(type:"PrePrimaryTwo")
+BabyClass.update_all(type:"PrePrimaryOne")
+

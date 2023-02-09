@@ -1,0 +1,2 @@
+module LeatherTechnologySecondYearsHelper
+end

@@ -1,0 +1,2 @@
+module LeatherStageThreesHelper
+end

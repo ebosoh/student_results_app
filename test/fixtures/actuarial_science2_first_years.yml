@@ -1,0 +1,43 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  admission_no: MyString
+  student_id: 
+  sma_1117: 1
+  sas_1190: 1
+  igs_1104: 1
+  igs_1201: 1
+  hns_1100: 1
+  bec_1101: 1
+  bba_2201: 1
+  bcm_1101: 1
+  sas_1101: 1
+  sas_1201: 1
+  sas_1250: 1
+  sas_1290: 1
+  bec_1204: 1
+  sma_1218: 1
+  mean: 1
+  recommendation: MyText
+  grouping: MyString
+
+two:
+  admission_no: MyString
+  student_id: 
+  sma_1117: 1
+  sas_1190: 1
+  igs_1104: 1
+  igs_1201: 1
+  hns_1100: 1
+  bec_1101: 1
+  bba_2201: 1
+  bcm_1101: 1
+  sas_1101: 1
+  sas_1201: 1
+  sas_1250: 1
+  sas_1290: 1
+  bec_1204: 1
+  sma_1218: 1
+  mean: 1
+  recommendation: MyText
+  grouping: MyString

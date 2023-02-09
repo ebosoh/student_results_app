@@ -1,0 +1,41 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  admission_no: MyString
+  student_id: 
+  academic_year: MyString
+  bsm_2114: 1
+  hrd_2101: 1
+  bsm_1102: 1
+  sas_1101: 1
+  sas_1190: 1
+  sma_2101: 1
+  szl_2111: 1
+  bsm_1204: 1
+  sas_1201: 1
+  sas_1250: 1
+  sas_1190: 1
+  sma_2102: 1
+  current_mean: 1
+  cumulative_mean: 1
+  recommendation: MyString
+
+two:
+  admission_no: MyString
+  student_id: 
+  academic_year: MyString
+  bsm_2114: 1
+  hrd_2101: 1
+  bsm_1102: 1
+  sas_1101: 1
+  sas_1190: 1
+  sma_2101: 1
+  szl_2111: 1
+  bsm_1204: 1
+  sas_1201: 1
+  sas_1250: 1
+  sas_1190: 1
+  sma_2102: 1
+  current_mean: 1
+  cumulative_mean: 1
+  recommendation: MyString

@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  form: MyString
+  term: MyString
+  vote_head: MyString
+  amount: 1
+
+two:
+  form: MyString
+  term: MyString
+  vote_head: MyString
+  amount: 1

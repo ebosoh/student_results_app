@@ -1,0 +1,2 @@
+class PolymerChemistryThirdYearsController < ApplicationController
+end

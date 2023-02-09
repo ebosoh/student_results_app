@@ -1,0 +1,35 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  admission_no: MyString
+  student_id: 
+  academic_year: MyString
+  slt_0201: 1
+  slt_0202: 1
+  slt_0203: 1
+  bba_0215: 1
+  slt_0204: 1
+  slt_0205: 1
+  slt_0206: 1
+  slt_0207: MyString
+  slt_0199: MyString
+  mean: 9.99
+  recommendation: MyText
+  grouping: 1
+
+two:
+  admission_no: MyString
+  student_id: 
+  academic_year: MyString
+  slt_0201: 1
+  slt_0202: 1
+  slt_0203: 1
+  bba_0215: 1
+  slt_0204: 1
+  slt_0205: 1
+  slt_0206: 1
+  slt_0207: MyString
+  slt_0199: MyString
+  mean: 9.99
+  recommendation: MyText
+  grouping: 1

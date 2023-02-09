@@ -1,0 +1,5 @@
+module ActuarialScienceFirstYearsHelper
+def first_year_mean
+@actuarial_science_first_year.mean_1
+end
+end

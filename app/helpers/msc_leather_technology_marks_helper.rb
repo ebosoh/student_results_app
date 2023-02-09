@@ -1,0 +1,2 @@
+module MscLeatherTechnologyMarksHelper
+end

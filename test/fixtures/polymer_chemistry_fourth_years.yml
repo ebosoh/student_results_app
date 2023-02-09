@@ -1,0 +1,37 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  admission_no: MyString
+  student_id: 
+  academic_year: MyString
+  bba_2201: 1
+  scp_4101: 1
+  scp_4102: 1
+  scp_4199: 1
+  igs_4101: 1
+  scp_4201: 1
+  scp_4202: 1
+  scp_4203: 1
+  scp_4299: 1
+  igs_4102: 1
+  current_mean: 1
+  cumulative_mean: 1
+  recommendation: MyString
+
+two:
+  admission_no: MyString
+  student_id: 
+  academic_year: MyString
+  bba_2201: 1
+  scp_4101: 1
+  scp_4102: 1
+  scp_4199: 1
+  igs_4101: 1
+  scp_4201: 1
+  scp_4202: 1
+  scp_4203: 1
+  scp_4299: 1
+  igs_4102: 1
+  current_mean: 1
+  cumulative_mean: 1
+  recommendation: MyString

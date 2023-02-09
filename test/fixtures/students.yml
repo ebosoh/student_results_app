@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  admission_no: 1
+  name: MyString
+  gender: MyString
+  programme_id: 1
+  group: 2020-07-29
+  faculty: MyString
+  department: MyString
+  level: MyString
+
+two:
+  admission_no: 1
+  name: MyString
+  gender: MyString
+  programme_id: 1
+  group: 2020-07-29
+  faculty: MyString
+  department: MyString
+  level: MyString

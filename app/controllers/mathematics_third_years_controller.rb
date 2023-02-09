@@ -1,0 +1,2 @@
+class MathematicsThirdYearsController < ApplicationController
+end
